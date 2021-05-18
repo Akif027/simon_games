@@ -8,6 +8,8 @@ body {
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
+  line-height:4rem;
+  
 }
 
 .container {
@@ -15,6 +17,17 @@ body {
   width: 50%;
   margin: auto;
 
+}
+.start{
+
+  margin: 25px;
+  display: inline-block;
+  height: 50px;
+  width: 100px;
+  color: white;
+  border: 5px solid brown;
+  background-color: black;
+  border-radius: 20%;
 }
 
 .btn {
